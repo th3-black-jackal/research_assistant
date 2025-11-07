@@ -1,4 +1,1 @@
-chroma_db/*
-.vscode/*
-__pycache__/*
-summaries
+__pycache__
